@@ -60,10 +60,10 @@
     "revision": "android-8.1"
   },
   {
-    "remote": "omnirom",
-    "repository": "android_kernel_oneplus_msm8998",
+    "remote": "github",
+    "repository": "timocapa/op5",
     "target_path": "kernel/oneplus/msm8998",
-    "revision": "android-8.1"
+    "revision": "8.1.0-unified"
   },
   {
     "remote": "omnirom",

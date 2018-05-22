@@ -245,12 +245,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    GCam
-
-# Prebuilt Libs camera
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/prebuilts/system/vendor/lib/hw/camera.msm8998.so:system/vendor/lib/hw/camera.msm8998.so \
-    $(LOCAL_PATH)/prebuilts/system/vendor/lib/libmmcamera_imx371.so:system/vendor/lib/libmmcamera_imx371.so
+    SnapdragonCamera2
 
 # power
 #PRODUCT_PACKAGES += \
